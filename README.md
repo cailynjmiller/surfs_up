@@ -26,4 +26,4 @@ March Temperature Statistics
 
 September Temperature Statistics 
 
-![September Stats](https://github.com/cailynjmiller/surfs_up/blob/main/images/september_statistics.png)
+![September Stats](https://github.com/cailynjmiller/surfs_up/blob/main/september_statistics.png)
