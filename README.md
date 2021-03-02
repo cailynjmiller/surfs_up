@@ -7,23 +7,23 @@ W. Avy was inspired on his trip to Hawaii to open a surf and ice cream shop. To 
 - The temperatures stay relatively consistent between June and December. The Mean, 25% quartile, 50% quartile (median), and 75% quartile are all only about 3 degrees off. This means that W.Avy can expect consistent weather year round and shouldn't expect too many fluctuations in sales throughout the year based on weather alone.
 
 - The min and max temperatures for December and June are not too far off from the average. For June, the min is about 10 degrees cooler and teh max about 10 degrees hotter. For December, the min is about 15 degrees cooler and 12 degrees higher. This is further proof that Hawaii doesn't have extreme weather fluctuations and should be a safe spot for a surf and ice cream shop.
-<br/>
+
 June Temperature Statistics 
-<br/>
+
 ![June stats](https://github.com/cailynjmiller/surfs_up/blob/main/june_statistics.png)
-<br/>
+
 December Temperature Statistics 
-<br/>
+
 ![December Stats](https://github.com/cailynjmiller/surfs_up/blob/main/december%20statistics.png)
 
 # Summary
 According to the analysis of December and June temperatures in Hawaii, the weather overall looks consistent the temperatures are ideal for surfing and ice cream weather. It is worth the investment for W.Avy to open up the ice-cream and surf shop as there doesn't appear to be much of a risk for down times due to weather. I decided to run two additional analyses on the weather in September and March to provide insight into the fall and spring months as well. These months also prove to be very consistent with March only being slightly cooler on average than December, and September slightly warmer on average than June.
 
-<br/>
+
 March Temperature Statistics 
-<br/>
+
 ![March stats](https://github.com/cailynjmiller/surfs_up/blob/main/march_statistics.png)
-<br/>
+
 September Temperature Statistics 
-<br/>
+
 ![September Stats](https://github.com/cailynjmiller/surfs_up/blob/main/images/september_statistics.png)
