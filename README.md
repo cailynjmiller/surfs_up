@@ -10,7 +10,7 @@ W. Avy was inspired on his trip to Hawaii to open a surf and ice cream shop. To 
 <br/>
 June Temperature Statistics 
 <br/>
-![June Stats](https://github.com/cailynjmiller/surfs_up/blob/main/images/june_statistics.png)
+![June Stats](june_statistics.png)
 <br/>
 December Temperature Statistics 
 <br/>
