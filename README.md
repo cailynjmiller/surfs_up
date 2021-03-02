@@ -10,10 +10,20 @@ W. Avy was inspired on his trip to Hawaii to open a surf and ice cream shop. To 
 <br/>
 June Temperature Statistics 
 <br/>
-![June Stats](june_statistics.png)
+![June stats](https://github.com/cailynjmiller/surfs_up/blob/main/june_statistics.png)
 <br/>
 December Temperature Statistics 
 <br/>
-![December Stats](https://github.com/cailynjmiller/surfs_up/blob/main/images/december_statistics.png)
+![December Stats](https://github.com/cailynjmiller/surfs_up/blob/main/december%20statistics.png)
 
 # Summary
+According to the analysis of December and June temperatures in Hawaii, the weather overall looks consistent the temperatures are ideal for surfing and ice cream weather. It is worth the investment for W.Avy to open up the ice-cream and surf shop as there doesn't appear to be much of a risk for down times due to weather. I decided to run two additional analyses on the weather in September and March to provide insight into the fall and spring months as well. These months also prove to be very consistent with March only being slightly cooler on average than December, and September slightly warmer on average than June.
+
+<br/>
+March Temperature Statistics 
+<br/>
+![March stats](https://github.com/cailynjmiller/surfs_up/blob/main/march_statistics.png)
+<br/>
+September Temperature Statistics 
+<br/>
+![September Stats](https://github.com/cailynjmiller/surfs_up/blob/main/images/september_statistics.png)
